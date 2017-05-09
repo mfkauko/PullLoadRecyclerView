@@ -1,2 +1,3 @@
 # PullLoadRecyclerView
 支持下拉刷新和上拉加载的RecyclerView
+实现方式：利用NestedScrollParent，RecyclerView作为NestedScrollChild.
